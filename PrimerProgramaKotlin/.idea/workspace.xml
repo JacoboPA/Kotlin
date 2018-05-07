@@ -48,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="When.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="When.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/seccion3/When.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejercicio.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/seccion3/Ejercicio.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -80,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/seccion2/ejericicio2.kt" />
         <option value="$PROJECT_DIR$/src/seccion3/operadoresRelacionales.kt" />
         <option value="$PROJECT_DIR$/src/seccion3/When.kt" />
+        <option value="$PROJECT_DIR$/src/seccion3/Ejercicio.kt" />
       </list>
     </option>
   </component>
@@ -143,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.seccion3.WhenKt">
+  <component name="RunManager" selected="Kotlin.seccion3.EjercicioKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -162,16 +172,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="seccion1.DatosEntradaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="PrimerProgramaKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="seccion1.DatosEntradaKt" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="seccion1.Ejercicio1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="PrimerProgramaKotlin" />
@@ -201,6 +201,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="seccion2.OperacionesLogicasKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="seccion3.EjercicioKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="PrimerProgramaKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="seccion3.EjercicioKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="seccion3.WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -236,19 +246,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.seccion1.DatosEntradaKt" />
       <item itemvalue="Kotlin.seccion1.NullSafetyKt" />
       <item itemvalue="Kotlin.seccion1.Ejercicio1Kt" />
       <item itemvalue="Kotlin.seccion2.OperacionesLogicasKt" />
       <item itemvalue="Kotlin.seccion3.WhenKt" />
+      <item itemvalue="Kotlin.seccion3.EjercicioKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.seccion3.EjercicioKt" />
         <item itemvalue="Kotlin.seccion3.WhenKt" />
         <item itemvalue="Kotlin.seccion2.OperacionesLogicasKt" />
         <item itemvalue="Kotlin.seccion1.Ejercicio1Kt" />
         <item itemvalue="Kotlin.seccion1.NullSafetyKt" />
-        <item itemvalue="Kotlin.seccion1.DatosEntradaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -278,11 +288,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.32928476" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.32928476" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -467,17 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
+    <entry file="file://$PROJECT_DIR$/src/seccion3/When.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seccion2/ejercicio.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -495,10 +498,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seccion3/When.kt">
+    <entry file="file://$PROJECT_DIR$/src/seccion2/ejercicio.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion3/Ejercicio.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
