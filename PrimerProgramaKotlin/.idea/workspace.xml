@@ -39,11 +39,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="operadoresRelacionales.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="operadoresRelacionales.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/seccion3/operadoresRelacionales.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="34">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="When.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seccion3/When.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ejercicio.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/seccion3/Ejercicio.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -70,6 +88,8 @@
         <option value="$PROJECT_DIR$/src/seccion2/ejercicio.kt" />
         <option value="$PROJECT_DIR$/src/seccion2/ejericicio2.kt" />
         <option value="$PROJECT_DIR$/src/seccion3/operadoresRelacionales.kt" />
+        <option value="$PROJECT_DIR$/src/seccion3/When.kt" />
+        <option value="$PROJECT_DIR$/src/seccion3/Ejercicio.kt" />
       </list>
     </option>
   </component>
@@ -84,9 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +126,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.seccion2.OperacionesLogicasKt">
+  <component name="RunManager" selected="Kotlin.seccion3.EjercicioKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -152,16 +172,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="seccion1.DatosEntradaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="PrimerProgramaKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="seccion1.DatosEntradaKt" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="seccion1.Ejercicio1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="PrimerProgramaKotlin" />
@@ -183,16 +193,6 @@
       <option name="MAIN_CLASS_NAME" value="seccion1.NullSafetyKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="seccion1.Variables_kotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="PrimerProgramaKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="seccion1.Variables_kotlinKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="seccion2.OperacionesLogicasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="PrimerProgramaKotlin" />
       <option name="VM_PARAMETERS" />
@@ -201,6 +201,26 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="seccion2.OperacionesLogicasKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="seccion3.EjercicioKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="PrimerProgramaKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="seccion3.EjercicioKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="seccion3.WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="PrimerProgramaKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="seccion3.WhenKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -226,19 +246,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.seccion1.Variables_kotlinKt" />
-      <item itemvalue="Kotlin.seccion1.DatosEntradaKt" />
       <item itemvalue="Kotlin.seccion1.NullSafetyKt" />
       <item itemvalue="Kotlin.seccion1.Ejercicio1Kt" />
       <item itemvalue="Kotlin.seccion2.OperacionesLogicasKt" />
+      <item itemvalue="Kotlin.seccion3.WhenKt" />
+      <item itemvalue="Kotlin.seccion3.EjercicioKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.seccion3.EjercicioKt" />
+        <item itemvalue="Kotlin.seccion3.WhenKt" />
         <item itemvalue="Kotlin.seccion2.OperacionesLogicasKt" />
         <item itemvalue="Kotlin.seccion1.Ejercicio1Kt" />
         <item itemvalue="Kotlin.seccion1.NullSafetyKt" />
-        <item itemvalue="Kotlin.seccion1.DatosEntradaKt" />
-        <item itemvalue="Kotlin.seccion1.Variables_kotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -257,16 +277,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928476" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50065106" side_tool="true" weight="0.32928476" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" visible="true" weight="0.32928476" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -279,7 +301,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994602" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32928476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -295,6 +316,34 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion2/ejercicio.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion2/ejericicio2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion3/operadoresRelacionales.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -428,17 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
+    <entry file="file://$PROJECT_DIR$/src/seccion3/When.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seccion2/ejercicio.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -451,8 +493,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seccion3/operadoresRelacionales.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion2/ejercicio.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion2/operacionesLogicas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seccion3/Ejercicio.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
